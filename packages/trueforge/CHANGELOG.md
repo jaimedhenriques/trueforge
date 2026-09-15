@@ -1,5 +1,15 @@
 # @truefoundry/trueforge
 
+## 0.2.0-rc.11
+
+### Patch Changes
+
+- 9846d6d: Add Python TrueForge SDK stream and non-stream samples to agent Use in Code snippets, merging deltas with is_event_delta / merge_event_delta.
+- c77e7df: TrueFoundry mode: optional `TRUEFOUNDRY_TENANT_ID_TO_ALLOWED_MODEL_PROVIDER_ACCOUNTS` JSON map of tenant id → provider account names to limit which virtual providers are listed per tenant.
+- Updated dependencies [648273b]
+- Updated dependencies [134dcb9]
+  - @truefoundry/trueforge-sdk@0.2.0-rc.8
+
 ## 0.2.0-rc.10
 
 ### Patch Changes
